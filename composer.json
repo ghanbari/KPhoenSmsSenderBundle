@@ -1,5 +1,5 @@
 {
-    "name": "kphoen/sms-sender-bundle",
+    "name": "ghanbari/sms-sender-bundle",
     "description": "Integrates the SmsSender library in Symfony2 applications",
     "keywords": ["sms", "abstraction"],
     "type": "symfony-bundle",
